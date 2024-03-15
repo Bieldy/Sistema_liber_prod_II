@@ -1,0 +1,14 @@
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.AssemblyInfoInputs.cache
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.AssemblyInfo.cs
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.csproj.CoreCompileInputs.cache
+C:\project_op\sist_liberacao_pro_two\bin\Debug\net7.0\sist_liberacao_pro_two.exe
+C:\project_op\sist_liberacao_pro_two\bin\Debug\net7.0\sist_liberacao_pro_two.deps.json
+C:\project_op\sist_liberacao_pro_two\bin\Debug\net7.0\sist_liberacao_pro_two.runtimeconfig.json
+C:\project_op\sist_liberacao_pro_two\bin\Debug\net7.0\sist_liberacao_pro_two.dll
+C:\project_op\sist_liberacao_pro_two\bin\Debug\net7.0\sist_liberacao_pro_two.pdb
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.dll
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\refint\sist_liberacao_pro_two.dll
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.pdb
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\sist_liberacao_pro_two.genruntimeconfig.cache
+C:\project_op\sist_liberacao_pro_two\obj\Debug\net7.0\ref\sist_liberacao_pro_two.dll

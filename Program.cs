@@ -6,8 +6,8 @@ namespace SIS_LIBERACAO_PRO_TWO
     {
             static void Main (string [] args)
             {
-                Console.Clear();
-                Console.WriteLine("Bem Vindo");
+                Cad.Cadastro();
+                Ret.Retirada();
             }
     }
 }

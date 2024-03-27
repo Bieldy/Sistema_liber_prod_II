@@ -10,7 +10,7 @@ namespace SIS_LIBERACAO_PRO_TWO
 
                 Console.WriteLine("Acesso liberado para coleta");
                 Console.WriteLine("");
-                Console.WriteLine("Preenchar os campos a seguir ");
+                Console.WriteLine("Preencha os campos a seguir ");
                 Console.WriteLine("_____________________________");
                 
                 ItemRetirada();
@@ -40,11 +40,13 @@ namespace SIS_LIBERACAO_PRO_TWO
 
                        if (int.TryParse(cod_prod, out number_cod_prod))
                        {
-                        Console.WriteLine("Inserido com sucesso");
+                        Console.Clear();
+                        Console.WriteLine("Produto -> " + item_prod);
+                        Console.WriteLine("Código: " + number_cod_prod);
 
                         Console.WriteLine("");
 
-                        Console.WriteLine("Liberado para entrega");
+                        Console.WriteLine("Liberado para envio !!!");
                         Console.WriteLine(" ");
 
                         System.Environment.Exit(0);

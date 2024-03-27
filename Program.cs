@@ -7,6 +7,7 @@ namespace SIS_LIBERACAO_PRO_TWO
             static void Main (string [] args)
             {
                 Cad.Cadastro();
+                Log.Login();
                 Ret.Retirada();
             }
     }

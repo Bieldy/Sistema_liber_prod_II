@@ -78,25 +78,6 @@ namespace SIS_LIBERACAO_PRO_TWO
                              }
 
                 }     
-                        
-
-                      /*  string acess = user + password;
-
-                             if (user + password == acess)
-                              {
-                                 Console.Clear();
-                                 Console.WriteLine("Cadastro feito com sucesso!");
-                                 Console.WriteLine("");
-                                 Console.WriteLine("Seja Bem-vindo " + user);
-                                 Console.WriteLine("___________________________");
-                                 
-                              }
-
-                              else 
-                                {
-                                  New_user();
-                                }*/
-
                     
        }
  }

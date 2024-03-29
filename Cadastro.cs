@@ -16,7 +16,7 @@ namespace SIS_LIBERACAO_PRO_TWO
          
               public static void New_name()
               {
-                Console.WriteLine("Cadastre nome de usuário");
+                Console.WriteLine("Cadastre o nome de usuário");
                 string user = Console.ReadLine().Trim();
 
                    if (string.IsNullOrEmpty(user))
@@ -72,6 +72,7 @@ namespace SIS_LIBERACAO_PRO_TWO
                              {
                                 Console.Clear();
                                 Console.WriteLine("Data Inválida!");
+                                Console.WriteLine(" ");
                                 
 
                                 New_data_nasc();

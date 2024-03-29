@@ -48,8 +48,8 @@ namespace SIS_LIBERACAO_PRO_TWO
 
                         Console.WriteLine("Liberado para envio !!!");
                         Console.WriteLine(" ");
-
-                        System.Environment.Exit(0);
+                          
+                        
                        }
 
                        else

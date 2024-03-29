@@ -46,7 +46,7 @@ namespace SIS_LIBERACAO_PRO_TWO
 
                         Console.WriteLine("");
 
-                        Console.WriteLine("Liberado para envio !!!");
+                        Console.WriteLine("Liberado para envio !");
                         Console.WriteLine(" ");
                           
                         

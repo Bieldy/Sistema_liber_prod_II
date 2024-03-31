@@ -41,7 +41,7 @@ namespace SIS_LIBERACAO_PRO_TWO
                        if (int.TryParse(cod_prod, out number_cod_prod))
                        {
                         Console.Clear();
-                        Console.WriteLine("Produto -> " + item_prod);
+                        Console.WriteLine("Produto:  " + item_prod);
                         Console.WriteLine("Código: " + number_cod_prod);
 
                         Console.WriteLine("");

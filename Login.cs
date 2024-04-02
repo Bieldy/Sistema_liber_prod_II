@@ -18,7 +18,7 @@ namespace SIS_LIBERACAO_PRO_TWO
                      Console.WriteLine("   ");
                      Console.WriteLine(" FAÇA O LOGIN ");
                      Console.WriteLine("   ");
-                     Console.WriteLine("-------------------------------");
+                   
                      Console.WriteLine("Informe o nome de Usuário:");
                      Console.WriteLine(" ");
                      string user_cad = Console.ReadLine().Trim();

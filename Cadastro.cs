@@ -58,6 +58,7 @@ namespace SIS_LIBERACAO_PRO_TWO
                {                       
                           Console.WriteLine("Cadastre a data de Nascimento:");
                           Console.WriteLine(" ");
+                          Console.WriteLine(" ");
                           string Data_nasc = Console.ReadLine().Trim();
 
                           int data_nasc;
